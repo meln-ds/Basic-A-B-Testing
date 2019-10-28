@@ -7,4 +7,4 @@ This exercise will comprise of the following:
 2. Lift and statistical significance: evaluate the result of the A/B test using two key measurements, lift and statistical significance
 3. Segmentation: understand the result of the A/B test in the context of user segmentation
 
-This repository is inspired by DataCamp's Analyzing Marketing Campaigns with pandas Case Study, and I highly recommend that you check this course out as it covers a much broader scope :)
+This is an exercise taken by DataCamp's Analyzing Marketing Campaigns with pandas Case Study, and all credits go to them. You can check out the course, and if interested purchase access to DataCamp here: https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas
